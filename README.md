@@ -20,6 +20,9 @@ Rules:
 Player presses "Roll Dice" button to cast two dice. The dice rolls are added to players round score. The player can choose to roll again or press "Hold" button to bank the round score to global score. first player to reach set total score WINS!
 There is a catch. A dice roll of "1" resets round score to zero and ends the player's turn. 
 
+Screenshot:
+
+![Game Screenshot](Images/StartGame.png)
 
 Tech:
 
