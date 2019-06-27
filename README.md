@@ -11,15 +11,15 @@ This project is an exercise in the usage of multiple JavaScript tools taught in 
 <b>Usage:</b>
 <hr>
 
-Set "Total" value to the goal score a player must reach.
-Press "New Game" to initiate the game. 
-Press "Roll Dice" to cast dice.
-Press "Hold" to bank to the round score to the global score
+Set "Total" value to the goal score a player must reach. <br>
+Press "New Game" to initiate the game. <br>
+Press "Roll Dice" to cast dice.<br>
+Press "Hold" to bank to the round score to the global score. <br>
 
 <b>Rules:</b>
 <hr>
 
-Player presses "Roll Dice" button to cast two dice. The dice rolls are added to players round score. The player can choose to roll again or press "Hold" button to bank the round score to global score. first player to reach set total score WINS!
+Player presses "Roll Dice" button to cast two dice. The dice rolls are added to players round score. The player can choose to roll again or press "Hold" button to bank the round score to global score. first player to reach set total score WINS!<br>
 There is a catch. A dice roll of "1" resets round score to zero and ends the player's turn. 
 
 <b>Screenshot:</b>
@@ -30,9 +30,9 @@ There is a catch. A dice roll of "1" resets round score to zero and ends the pla
 <b>Tech:</b>
 <hr>
 
-CSS
-HTML
-JavaScript
+CSS<br>
+HTML<br>
+JavaScript<br>
 
 <b>Credits:</b>
 <hr>
