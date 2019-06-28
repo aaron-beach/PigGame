@@ -36,5 +36,5 @@ JavaScript<br>
 
 <b>Credits:</b>
 <hr>
-Author:Aaron Beach
+Author:Aaron Beach<br>
 Udemy course: The Complete Javascript Course 2019. Author: Jonas Schmedtmann
